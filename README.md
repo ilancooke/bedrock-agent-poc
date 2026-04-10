@@ -8,6 +8,14 @@ Simple agent built using AWS Bedrock Converse API.
 - Token + latency tracking
 - CLI input
 
+
+## Setup
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
 ## Run
 
 ```bash
